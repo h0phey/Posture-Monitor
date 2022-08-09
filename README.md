@@ -19,3 +19,5 @@ Device maket:
 App maket:
 
 ![image](https://user-images.githubusercontent.com/48089070/183739685-146b2466-fbc2-44f7-a8eb-8ef395824930.png)
+Link for project: https://x.thunkable.com/projectPage/62ab1a2c48f170025a68a22b
+![image](https://user-images.githubusercontent.com/48089070/183742522-45daee8b-8ba6-4671-9bb7-4f7e5b0af440.png)
